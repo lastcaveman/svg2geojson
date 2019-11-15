@@ -1,6 +1,6 @@
 {
-  "name": "svg2geojson",
-  "version": "0.7.1",
+  "name": "svg2geo",
+  "version": "1.0.0",
   "description": "Converts an SVG file with added geo-referencing tags into one or more GeoJSON files.",
   "main": "lib/svg2geojson.js",
   "directories": {
@@ -8,7 +8,7 @@
     "test": "test"
   },
   "bin": {
-    "svg2geojson": "bin/svg2geojson"
+    "svg2geo": "bin/svg2geojson"
   },
   "dependencies": {
     "minimist": "^1.2.0",
